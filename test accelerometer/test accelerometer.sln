@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test accelerometer", "Assembly-CSharp.csproj", "{9AF4CF15-D3A4-2957-75F3-C313C71F74FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test accelerometer", "Assembly-CSharp-firstpass.csproj", "{7A943436-30D1-6EDD-685F-483B5A590717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test accelerometer", "Assembly-CSharp-Editor-firstpass.csproj", "{833285F2-5499-DA0E-4B68-7AC4985DE386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF4CF15-D3A4-2957-75F3-C313C71F74FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF4CF15-D3A4-2957-75F3-C313C71F74FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF4CF15-D3A4-2957-75F3-C313C71F74FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF4CF15-D3A4-2957-75F3-C313C71F74FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A943436-30D1-6EDD-685F-483B5A590717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A943436-30D1-6EDD-685F-483B5A590717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A943436-30D1-6EDD-685F-483B5A590717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A943436-30D1-6EDD-685F-483B5A590717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833285F2-5499-DA0E-4B68-7AC4985DE386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833285F2-5499-DA0E-4B68-7AC4985DE386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833285F2-5499-DA0E-4B68-7AC4985DE386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833285F2-5499-DA0E-4B68-7AC4985DE386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

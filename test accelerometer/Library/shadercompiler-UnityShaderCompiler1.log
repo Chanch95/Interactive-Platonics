@@ -1,0 +1,97 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=15 insize=13012 outsize=13012 ok=1
+Cmd: disassembleShader
+  api=15 insize=14161 outsize=14161 ok=1
+Cmd: disassembleShader
+  api=15 insize=13012 outsize=13012 ok=1
+Cmd: disassembleShader
+  api=15 insize=14161 outsize=14161 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=14 insize=12973 outsize=12957 ok=1
+Cmd: disassembleShader
+  api=15 insize=9011 outsize=9011 ok=1
+Cmd: disassembleShader
+  api=15 insize=9318 outsize=9318 ok=1
+Cmd: disassembleShader
+  api=15 insize=8804 outsize=8804 ok=1
+Cmd: disassembleShader
+  api=15 insize=13646 outsize=13646 ok=1
+Cmd: disassembleShader
+  api=15 insize=10300 outsize=10300 ok=1
+Cmd: disassembleShader
+  api=14 insize=3509 outsize=3493 ok=1
+Cmd: disassembleShader
+  api=15 insize=11900 outsize=11900 ok=1
+Cmd: disassembleShader
+  api=14 insize=6695 outsize=6679 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=1871 outsize=1871 ok=1
+Cmd: disassembleShader
+  api=14 insize=954 outsize=938 ok=1
+Cmd: disassembleShader
+  api=15 insize=4049 outsize=4049 ok=1
+Cmd: disassembleShader
+  api=14 insize=3757 outsize=3741 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=8819 outsize=8819 ok=1
+Cmd: disassembleShader
+  api=15 insize=16918 outsize=16918 ok=1
+Cmd: disassembleShader
+  api=15 insize=10111 outsize=10111 ok=1
+Cmd: disassembleShader
+  api=15 insize=18455 outsize=18455 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=7029 outsize=7029 ok=1
+Cmd: disassembleShader
+  api=14 insize=3665 outsize=3649 ok=1
+Cmd: disassembleShader
+  api=14 insize=3665 outsize=3649 ok=1
+Cmd: disassembleShader
+  api=14 insize=3539 outsize=3523 ok=1
+Cmd: disassembleShader
+  api=14 insize=3760 outsize=3744 ok=1
+Cmd: disassembleShader
+  api=15 insize=9782 outsize=9782 ok=1
+Cmd: disassembleShader
+  api=15 insize=6130 outsize=6130 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=15 insize=2591 outsize=2591 ok=1
+Cmd: disassembleShader
+  api=14 insize=954 outsize=938 ok=1
+Unhandled exception: Protocol error - failed to read correct magic number
+
+Quitting shader compiler process
